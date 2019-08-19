@@ -1,0 +1,19 @@
+{
+  "name": "zad.-12.6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnieszkaszymlak/Zad.-12.6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnieszkaszymlak/Zad.-12.6/issues"
+  },
+  "homepage": "https://github.com/agnieszkaszymlak/Zad.-12.6#readme"
+}
